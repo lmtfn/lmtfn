@@ -7,18 +7,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="36 heigt="36" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="36 heigt="36" />
 </p>
-
-<h4>Bancos de dados:</h4>
-<p align="left">Em breve!
-</p>
-               
-<h4>Frameworks:</h4>
-<p align="left">Em breve!
-</p>
-               
-<h4>Ferramentas:</h4>
-<p align="left">Em breve!
-</p>
                
 <br/>
                
