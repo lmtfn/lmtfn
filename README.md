@@ -1,11 +1,13 @@
 <h3>Olá! Eu sou a Laura Neves.</h3>
-<p>Sejam bem vindos ao meu repositório de projetos! Estou atualmente cursando o Gama Experience #41, da Gama Academy.</p>
+<p>Sejam bem vindos ao meu repositório de projetos! Estudei Desenvolvimento Web Fullstack pela Gama Academy, com ênfase em Backend.</p>
 
 <h4>Linguagens:</h4>
 <p align="left">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="36 heigt="36" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="html5" width="36 heigt="36" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="36 heigt="36" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="36 heigt="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="36 heigt="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="36 heigt="36" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="36 heigt="36" />
 </p>
                
 <br/>
